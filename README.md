@@ -12,7 +12,7 @@
 
 ---
 
-### 01. Tempo — Planificador Personal
+### 01. Tempo - Planificador Personal
 
 <sub>DESARROLLO WEB · JAVASCRIPT · SUPABASE · CIFRADO DE DATOS</sub>
 
