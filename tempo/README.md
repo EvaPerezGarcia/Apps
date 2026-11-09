@@ -41,7 +41,7 @@ El proyecto combina desarrollo frontend, almacenamiento en la nube mediante Supa
 
 ## 02. FUNCIONALIDADES
 
-### 01 — Gestión de tareas
+### 01 - Gestión de tareas
 
 - Creación, edición, duplicación y eliminación de tareas.
 - Configuración de fechas, horarios, prioridades y estados.
@@ -51,7 +51,7 @@ El proyecto combina desarrollo frontend, almacenamiento en la nube mediante Supa
 - Historial de actividad y sesiones de concentración.
 - Búsqueda, filtros y ordenación.
 
-### 02 — Calendario y planificación
+### 02 - Calendario y planificación
 
 - Vistas mensual, semanal y diaria.
 - Representación visual de las tareas mediante bloques de colores.
@@ -60,13 +60,13 @@ El proyecto combina desarrollo frontend, almacenamiento en la nube mediante Supa
 - Resumen de tareas del día, atrasadas y próximas.
 - Vistas de lista y tablero Kanban.
 
-### 03 — Modo enfoque
+### 03 - Modo enfoque
 
 - Temporizadores de 15, 25, 45 y 60 minutos.
 - Configuración de duraciones personalizadas.
 - Registro de sesiones vinculadas a tareas.
 
-### 04 — Análisis de productividad
+### 04 - Análisis de productividad
 
 - Seguimiento de tareas completadas.
 - Rachas de días activos.
@@ -74,7 +74,7 @@ El proyecto combina desarrollo frontend, almacenamiento en la nube mediante Supa
 - Evolución semanal de tareas completadas.
 - Resumen de actividad por etiquetas.
 
-### 05 — Notas y gestión de cuenta
+### 05 - Notas y gestión de cuenta
 
 - Notas generales independientes de las tareas.
 - Registro e inicio de sesión mediante correo electrónico y contraseña.
@@ -112,7 +112,7 @@ tempo/
 │
 ├── js/              Lógica y funcionalidades
 │
-├── README.md        Documentación principal
+├── README.md        
 │
 └── index.html       Punto de entrada
 ```
@@ -192,11 +192,5 @@ Mejoras identificadas para futuras versiones:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=123B63&height=5" />
-
-<br/>
-
-**TEMPO**
-
-<sub>Aplicación web de productividad personal · 2026</sub>
 
 </div>
