@@ -6,7 +6,7 @@
 
 <h1>APLICACIONES Y HERRAMIENTAS DIGITALES</h1>
 
-<p>Desarrollo de aplicaciones web, herramientas digitales y soluciones orientadas a mejorar procesos y experiencias de usuario.</p>
+<p>Desarrollo de aplicaciones web, herramientas digitales y soluciones orientadas a mejorar procesos.</p>
 
 </div>
 
