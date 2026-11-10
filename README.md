@@ -41,6 +41,8 @@ Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web
 
 ---
 
+### 02. Lumen - Creador de dashboards con IA (LLM)
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=123B63&height=5" />
