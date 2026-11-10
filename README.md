@@ -41,7 +41,7 @@ Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web
 
 ---
 
-### 02. Lumen - Creador de dashboards con IA (LLM)
+### 02. Lumen - Creador de dashboards con IA (agente ia)
 
 <div align="center">
 
