@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/lumen-ai.js": {
+      "maxDuration": 60
+    }
+  }
+}
