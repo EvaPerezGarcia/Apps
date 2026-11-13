@@ -41,8 +41,6 @@ Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web
 
 ---
 
----
-
 ### 02. Lumen - Creador de dashboards con IA
 
 <div align="center">
@@ -72,7 +70,12 @@ La aplicación integra un agente de inteligencia artificial para analizar los da
 
 **Habilidades**
 
-<img src="https://img.shields.io/badge/HTML5-263B53?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-263B53?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-263B53?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/IA_Generativa-263B53?style=flat" /> <img src="https://img.shields.io/badge/Groq-263B53?style=flat" /> <img src="https://img.shields.io/badge/Supabase-263B53?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-263B53?style=flat&logo=vercel&logoColor=white
+<img src="https://img.shields.io/badge/HTML5-263B53?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-263B53?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-263B53?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/IA_Generativa-263B53?style=flat" /> <img src="https://img.shields.io/badge/Groq-263B53?style=flat" /> <img src="https://img.shields.io/badge/Supabase-263B53?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-263B53?style=flat&logo=vercel&logoColor=white" />
+
+ [Ver aplicación →](https://lumen-eight-sooty-36.vercel.app/) 
+ [Ver código fuente →](lumen) 
+
+---
 
 <div align="center">
 
