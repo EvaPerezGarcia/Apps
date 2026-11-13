@@ -103,8 +103,6 @@ Lumen combina desarrollo frontend, procesamiento de datos, inteligencia artifici
 - Guardado de dashboards en la cuenta del usuario.
 - Biblioteca personal de dashboards.
 - Apertura, duplicación y eliminación de proyectos.
-- Compartición mediante enlaces públicos de solo lectura.
-- Revocación de enlaces compartidos.
 - Almacenamiento de los datos, configuraciones y visualizaciones asociadas a cada dashboard.
 
 ## 03. TECNOLOGÍAS
@@ -240,10 +238,6 @@ La tabla `lumen_dashboards` permite almacenar la información necesaria para rec
 
 La información permite recuperar el estado del dashboard y continuar trabajando sobre él en futuras sesiones.
 
-### Compartición
-
-Los dashboards pueden compartirse mediante enlaces públicos de solo lectura. El propietario conserva el control sobre su publicación y puede revocar el enlace cuando lo considere necesario.
-
 ## 07. SEGURIDAD Y CONFIGURACIÓN
 
 La arquitectura separa las credenciales privadas del frontend y del backend.
@@ -279,7 +273,7 @@ La arquitectura permite publicar tanto el frontend como la función serverless r
 
 </div>
 
-## 10. PROPIEDAD INTELECTUAL Y DERECHOS DE USO
+## 09. PROPIEDAD INTELECTUAL Y DERECHOS DE USO
 
 <div align="center">
 
