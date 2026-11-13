@@ -18,7 +18,7 @@
 
 Aplicación web de productividad diseñada para organizar tareas, gestionar el tiempo y realizar un seguimiento de la actividad personal. Integra un calendario interactivo, gestión de tareas, notas generales, estadísticas y un temporizador de concentración en una única interfaz.
 
-**Funcionalidades principales**
+**Funcionalidades Principales**
 
 - Gestión de tareas con fechas, prioridades, etiquetas, subtareas y recurrencia.
 - Calendario interactivo con vistas mensual, semanal y diaria.
@@ -27,11 +27,11 @@ Aplicación web de productividad diseñada para organizar tareas, gestionar el t
 - Notas generales y seguimiento del progreso.
 - Registro e inicio de sesión mediante Supabase.
 
-**CARACTERÍSTICAS TÉCNICAS**
+**Características Técnicas**
 
 Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web Crypto API, PBKDF2-SHA256 y AES-GCM de 256 bits.
 
-**HABILIDADES TÉCNICAS**
+**Habilidades**
 
 <img src="https://img.shields.io/badge/HTML5-263B53?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-263B53?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-263B53?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-263B53?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-263B53?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Web_Crypto_API-263B53?style=flat" /> <img src="https://img.shields.io/badge/Vercel-263B53?style=flat&logo=vercel&logoColor=white" />
 
@@ -41,7 +41,38 @@ Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web
 
 ---
 
-### 02. Lumen - Creador de dashboards con IA (agente ia)
+---
+
+### 02. Lumen - Creador de dashboards con IA
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=123B63&height=5" />
+
+</div>
+
+<sub>DESARROLLO WEB · JAVASCRIPT · INTELIGENCIA ARTIFICIAL · GROQ · SUPABASE · VERCEL</sub>
+
+Aplicación web que utiliza inteligencia artificial para transformar archivos de datos en dashboards interactivos. Permite importar archivos Excel y CSV para analizar automáticamente su estructura y generar visualizaciones adaptadas al contenido, sin necesidad de configurar manualmente cada gráfico.
+
+**Funcionalidades Principales**
+
+- Importación de archivos Excel y CSV para su análisis.
+- Generación automática de dashboards mediante inteligencia artificial.
+- Identificación de indicadores clave (KPIs), métricas y dimensiones.
+- Creación de gráficos de barras, líneas y distribución.
+- Agente conversacional que permite modificar el dashboard mediante instrucciones en lenguaje natural.
+- Personalización de títulos, paletas de colores y temas visuales.
+- Tabla de datos para consultar la información importada.
+- Guardado y gestión de dashboards asociados a la cuenta del usuario.
+
+**Características Técnicas**
+
+La aplicación integra un agente de inteligencia artificial para analizar los datos y generar visualizaciones dinámicas. Supabase gestiona la autenticación y el almacenamiento de dashboards, mientras que Vercel permite desplegar la aplicación y sus funciones de servidor.
+
+**Habilidades**
+
+<img src="https://img.shields.io/badge/HTML5-263B53?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-263B53?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-263B53?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/IA_Generativa-263B53?style=flat" /> <img src="https://img.shields.io/badge/Groq-263B53?style=flat" /> <img src="https://img.shields.io/badge/Supabase-263B53?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-263B53?style=flat&logo=vercel&logoColor=white
 
 <div align="center">
 
