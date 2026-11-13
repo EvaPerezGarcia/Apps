@@ -187,17 +187,31 @@ Mejoras identificadas para futuras versiones:
 - Mejoras de accesibilidad y navegación mediante teclado.
 - Modularización progresiva de los componentes de la aplicación.
 
-## 09. AUTORÍA Y DERECHOS DE AUTOR
+## 09. PROPIEDAD INTELECTUAL Y DERECHOS DE USO
 
-© 2026 Eva Pérez García. Todos los derechos reservados.
+<div align="center">
 
-Tempo es un proyecto desarrollado íntegramente de forma individual.
+<img src="https://img.shields.io/badge/COPYRIGHT-ALL_RIGHTS_RESERVED-123B63?style=for-the-badge" />
 
-El código fuente, diseño, arquitectura, estructura, funcionalidades y demás elementos originales del proyecto son de mi autoría y propiedad intelectual.
+</div>
 
-Queda prohibida la copia, reproducción, modificación, distribución, publicación o reutilización total o parcial del proyecto sin mi autorización expresa y por escrito.
+**© 2026 Eva. Todos los derechos reservados.**
 
-Este repositorio no concede ninguna licencia para utilizar, modificar o distribuir el código fuente.
+Tempo es un proyecto original desarrollado íntegramente de forma individual por su autora. El diseño, la estructura, la interfaz de usuario, la organización del código, la arquitectura, la lógica de funcionamiento y los elementos originales de la aplicación están protegidos por la normativa de propiedad intelectual aplicable.
+
+**Queda expresamente prohibido, sin autorización previa y por escrito de la titular:**
+
+- Copiar, reproducir o reutilizar total o parcialmente el código fuente.
+- Modificar, adaptar o crear obras derivadas a partir del proyecto.
+- Redistribuir, publicar o compartir copias del código o de sus componentes originales.
+- Utilizar el proyecto, su diseño o sus funcionalidades como base para desarrollar o comercializar aplicaciones propias.
+- Eliminar o modificar los avisos de autoría y propiedad intelectual.
+
+El acceso público al repositorio no implica la concesión de una licencia de uso, modificación, distribución o explotación del proyecto.
+
+Las librerías, herramientas y servicios de terceros utilizados en Tempo mantienen sus propias licencias y condiciones de uso.
+
+**Este proyecto no se publica bajo una licencia de código abierto. Todos los derechos no concedidos expresamente quedan reservados a su titular.**
 
 ---
 
