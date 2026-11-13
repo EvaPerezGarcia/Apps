@@ -76,7 +76,6 @@ La aplicación integra un agente de inteligencia artificial para analizar los da
  
  [Ver código fuente →](lumen) 
 
----
 
 <div align="center">
 
