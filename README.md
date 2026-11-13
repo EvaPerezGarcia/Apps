@@ -18,7 +18,7 @@
 
 Aplicación web de productividad diseñada para organizar tareas, gestionar el tiempo y realizar un seguimiento de la actividad personal. Integra un calendario interactivo, gestión de tareas, notas generales, estadísticas y un temporizador de concentración en una única interfaz.
 
-**Funcionalidades Principales**
+**Funcionalidades principales**
 
 - Gestión de tareas con fechas, prioridades, etiquetas, subtareas y recurrencia.
 - Calendario interactivo con vistas mensual, semanal y diaria.
@@ -27,7 +27,7 @@ Aplicación web de productividad diseñada para organizar tareas, gestionar el t
 - Notas generales y seguimiento del progreso.
 - Registro e inicio de sesión mediante Supabase.
 
-**Características Técnicas**
+**Características técnicas**
 
 Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web Crypto API, PBKDF2-SHA256 y AES-GCM de 256 bits.
 
@@ -53,7 +53,7 @@ Los datos se cifran en el navegador antes de enviarse a Supabase, utilizando Web
 
 Aplicación web que utiliza inteligencia artificial para transformar archivos de datos en dashboards interactivos. Permite importar archivos Excel y CSV para analizar automáticamente su estructura y generar visualizaciones adaptadas al contenido, sin necesidad de configurar manualmente cada gráfico.
 
-**Funcionalidades Principales**
+**Funcionalidades principales**
 
 - Importación de archivos Excel y CSV para su análisis.
 - Generación automática de dashboards mediante inteligencia artificial.
@@ -64,7 +64,7 @@ Aplicación web que utiliza inteligencia artificial para transformar archivos de
 - Tabla de datos para consultar la información importada.
 - Guardado y gestión de dashboards asociados a la cuenta del usuario.
 
-**Características Técnicas**
+**Características técnicas**
 
 La aplicación integra un agente de inteligencia artificial para analizar los datos y generar visualizaciones dinámicas. Supabase gestiona la autenticación y el almacenamiento de dashboards, mientras que Vercel permite desplegar la aplicación y sus funciones de servidor.
 
