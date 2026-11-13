@@ -187,6 +187,18 @@ Mejoras identificadas para futuras versiones:
 - Mejoras de accesibilidad y navegación mediante teclado.
 - Modularización progresiva de los componentes de la aplicación.
 
+## 09. AUTORÍA Y DERECHOS DE AUTOR
+
+© 2026 Eva Pérez García. Todos los derechos reservados.
+
+Tempo es un proyecto desarrollado íntegramente de forma individual.
+
+El código fuente, diseño, arquitectura, estructura, funcionalidades y demás elementos originales del proyecto son de mi autoría y propiedad intelectual.
+
+Queda prohibida la copia, reproducción, modificación, distribución, publicación o reutilización total o parcial del proyecto sin mi autorización expresa y por escrito.
+
+Este repositorio no concede ninguna licencia para utilizar, modificar o distribuir el código fuente.
+
 ---
 
 <div align="center">
